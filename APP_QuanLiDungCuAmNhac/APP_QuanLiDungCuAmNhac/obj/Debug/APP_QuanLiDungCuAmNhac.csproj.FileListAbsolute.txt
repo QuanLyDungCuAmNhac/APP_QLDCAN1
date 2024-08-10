@@ -1,0 +1,471 @@
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.csproj.AssemblyReference.cache
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.Forms.FormDangNhap.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.Forms.FormMain.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.frmSuaSanPham.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.frmThemSanPham.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.frmThemVaoKho.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.frmXacNhanThanhToan.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.Report.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.SanPham.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.Properties.Resources.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.Demo.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.ThongKeDoanhThu.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.ThongKeSanPhamBanRa.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_BanHang.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_DonHang.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_Home.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_KhachHang.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_KhoHang.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_KhuyenMai.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_Loai.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_ManHinh.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_NCC.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_ND_NND.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_NhanVien.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_NND.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_PhanQUyen.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_QLDN.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_QLKho.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_QLSP.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_SanPham.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_ThemVaoKho.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_ThongKe.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_ThuongHieu.resources
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.csproj.GenerateResource.cache
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.csproj.CoreCompileInputs.cache
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\BLL.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\CloudinaryDotNet.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DTO.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\GumroadLicensing.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Guna.UI2.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DAL.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\EnvDTE.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\stdole.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\BLL.pdb
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\CloudinaryDotNet.xml
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DTO.pdb
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DTO.dll.config
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DAL.pdb
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_Quan.E92AB0BA.Up2Date
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.exe
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.pdb
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\APP_QuanLiDungCuAmNhac.exe.config
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\APP_QuanLiDungCuAmNhac.exe
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\APP_QuanLiDungCuAmNhac.pdb
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\x86\SqlServerSpatial160.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\x64\SqlServerSpatial160.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\APP_QuanLiDungCuAmNhac.exe.config
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\APP_QuanLiDungCuAmNhac.exe
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\APP_QuanLiDungCuAmNhac.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\BLL.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\CloudinaryDotNet.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DTO.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\GumroadLicensing.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Guna.Charts.WinForms.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Guna.UI2.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Newtonsoft.Json.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DAL.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\EnvDTE.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\stdole.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\BLL.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\CloudinaryDotNet.xml
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DTO.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DTO.dll.config
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Guna.Charts.WinForms.xml
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Newtonsoft.Json.xml
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DAL.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.csproj.AssemblyReference.cache
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.Forms.FormDangNhap.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.Forms.FormMain.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.frmSuaSanPham.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.frmThemSanPham.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.frmThemVaoKho.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.frmXacNhanThanhToan.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.Report.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.SanPham.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.Properties.Resources.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.Demo.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.ThongKeDoanhThu.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.ThongKeSanPhamBanRa.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_BanHang.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_DonHang.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_Home.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_KhachHang.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_KhoHang.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_Loai.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_ManHinh.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_NCC.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_ND_NND.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_NhanVien.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_NND.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_PhanQUyen.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_QLDN.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_QLKho.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_QLSP.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_SanPham.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_ThongKe.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_ThuongHieu.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.csproj.GenerateResource.cache
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.csproj.CoreCompileInputs.cache
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_Quan.E92AB0BA.Up2Date
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.exe
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.frmXemChiTietHD.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\x86\SqlServerSpatial160.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\x64\SqlServerSpatial160.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\APP_QuanLiDungCuAmNhac.exe.config
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\APP_QuanLiDungCuAmNhac.exe
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\APP_QuanLiDungCuAmNhac.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\BLL.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\CloudinaryDotNet.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DTO.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\GumroadLicensing.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Guna.Charts.WinForms.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Guna.UI2.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Newtonsoft.Json.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DAL.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\EnvDTE.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\stdole.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\BLL.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\CloudinaryDotNet.xml
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DTO.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DTO.dll.config
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Guna.Charts.WinForms.xml
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Newtonsoft.Json.xml
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DAL.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.csproj.AssemblyReference.cache
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.Forms.FormDangNhap.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.Forms.FormMain.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.frmSuaSanPham.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.frmThemSanPham.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.frmThemVaoKho.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.frmXacNhanThanhToan.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.frmXemChiTietHD.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.Report.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.SanPham.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.Properties.Resources.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.Demo.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.ThongKeDoanhThu.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.ThongKeSanPhamBanRa.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_BanHang.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_DonHang.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_Home.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_KhachHang.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_KhoHang.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_Loai.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_ManHinh.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_NCC.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_ND_NND.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_NhanVien.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_NND.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_PhanQUyen.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_QLDN.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_QLKho.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_QLSP.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_SanPham.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_ThongKe.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_ThuongHieu.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.csproj.GenerateResource.cache
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.csproj.CoreCompileInputs.cache
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_Quan.E92AB0BA.Up2Date
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.exe
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.MSXML.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\APP_QuanLiDungCuAmNhac.exe.manifest
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\APP_QuanLiDungCuAmNhac.application
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.exe.manifest
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.application
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\x86\SqlServerSpatial160.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\x64\SqlServerSpatial160.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\APP_QuanLiDungCuAmNhac.exe.config
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\APP_QuanLiDungCuAmNhac.exe.manifest
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\APP_QuanLiDungCuAmNhac.application
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\APP_QuanLiDungCuAmNhac.exe
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\APP_QuanLiDungCuAmNhac.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\BLL.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\CloudinaryDotNet.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DTO.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\GumroadLicensing.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Guna.Charts.WinForms.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Guna.UI2.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Newtonsoft.Json.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DAL.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\EnvDTE.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\stdole.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Microsoft.MSXML.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\BLL.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\CloudinaryDotNet.xml
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DTO.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DTO.dll.config
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Guna.Charts.WinForms.xml
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\Newtonsoft.Json.xml
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\DAL.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.csproj.AssemblyReference.cache
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.Forms.FormDangNhap.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.Forms.FormMain.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.frmSuaSanPham.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.frmThemSanPham.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.frmThemVaoKho.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.frmXacNhanThanhToan.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.frmXemChiTietHD.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.Report.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.My_Control.SanPham.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.Properties.Resources.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.Demo.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.ThongKeDoanhThu.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.ThongKeSanPhamBanRa.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_BanHang.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_DonHang.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_Home.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_KhachHang.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_KhoHang.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_Loai.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_ManHinh.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_NCC.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_ND_NND.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_NhanVien.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_NND.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_PhanQUyen.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_QLDN.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_QLKho.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_QLSP.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_SanPham.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_ThongKe.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.UserControls.UC_ThuongHieu.resources
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.csproj.GenerateResource.cache
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.csproj.CoreCompileInputs.cache
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.exe.manifest
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.application
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_Quan.E92AB0BA.Up2Date
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.exe
+D:\HK 7\PhatTrienPhanMemThongMinh\DA_LTCSHARP2_NHOM_XX\SOURCE\APP_QuanLiDungCuAmNhac\APP_QuanLiDungCuAmNhac\obj\Debug\APP_QuanLiDungCuAmNhac.pdb

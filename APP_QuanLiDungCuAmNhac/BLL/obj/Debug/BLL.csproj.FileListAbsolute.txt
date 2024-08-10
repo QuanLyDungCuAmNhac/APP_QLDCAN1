@@ -1,0 +1,60 @@
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\BLL.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\BLL.pdb
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\CloudinaryDotNet.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\DAL.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\DTO.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\GumroadLicensing.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\Guna.UI2.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\CloudinaryDotNet.xml
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\DAL.pdb
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\DTO.pdb
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\DTO.dll.config
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\obj\Debug\BLL.dll
+C:\Users\ACCER\Downloads\APP_QuanLiDungCuAmNhac\BLL\obj\Debug\BLL.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\BLL.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\BLL.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\CloudinaryDotNet.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\DAL.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\DTO.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\GumroadLicensing.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\Guna.Charts.WinForms.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\Guna.UI2.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\CloudinaryDotNet.xml
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\DAL.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\DTO.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\DTO.dll.config
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\Guna.Charts.WinForms.xml
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\Newtonsoft.Json.xml
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\obj\Debug\BLL.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QuanLiDungCuAmNhac\BLL\obj\Debug\BLL.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\BLL.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\BLL.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\CloudinaryDotNet.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\DAL.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\DTO.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\GumroadLicensing.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\Guna.Charts.WinForms.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\Guna.UI2.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\CloudinaryDotNet.xml
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\DAL.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\DTO.pdb
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\DTO.dll.config
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\Guna.Charts.WinForms.xml
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\bin\Debug\Newtonsoft.Json.xml
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\obj\Debug\BLL.dll
+D:\HK 7\PhatTrienPhanMemThongMinh\APP_QLDCAN\APP_QuanLiDungCuAmNhac\BLL\obj\Debug\BLL.pdb
