@@ -1,0 +1,316 @@
+﻿
+<!doctype html>
+<html class="no-js" lang="zxx">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Website dụng cụ âm nhạc</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="manifest" href="site.html">
+    <link rel="shortcut icon" type="image/x-icon" href="~/assets/img/favicon.png">
+    <!-- Place favicon.ico in the root directory -->
+    <!-- CSS here -->
+    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/assets/css/animate.min.css">
+    <link rel="stylesheet" href="~/assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="~/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="~/assets/css/flaticon.css">
+    <link rel="stylesheet" href="~/assets/css/meanmenu.css">
+    <link rel="stylesheet" href="~/assets/css/meanmenu.css">
+    <link rel="stylesheet" href="~/assets/css/slick.css">
+    <link rel="stylesheet" href="~/assets/css/default.css">
+    <link rel="stylesheet" href="~/assets/css/style.css">
+    <link rel="stylesheet" href="~/assets/css/responsive.css">
+</head>
+<body style="overflow: visible;">
+    <!-- preloader -->
+    <div id="preloader" style="display: none;">
+        <div class="preloader">
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+    <!-- preloader end  -->
+    <!-- header start -->
+    <header>
+        <div id="header-sticky" class="header-area box-90">
+            <div class="container-fluid">
+                <div class="row align-items-center">
+                    <div class="col-xl-2 col-lg-6 col-md-6 col-7 col-sm-5 d-flex align-items-center pos-relative">
+                        <div class="basic-bar cat-toggle">
+                            <span class="bar1"></span>
+                            <span class="bar2"></span>
+                            <span class="bar3"></span>
+                        </div>
+                        <div class="logo">
+                            <a href="@Url.Action("Index","Home")"><img src="~/assets/img/logo/logo.png" alt=""></a>
+                        </div>
+
+                        <div class="category-menu">
+
+                            @Html.Action("MenuLoai", "Product")
+                        </div>
+                    </div>
+                    <div class="col-xl-8 col-lg-6 col-md-8 col-8 d-none d-xl-block">
+                        <div class="main-menu text-center">
+                            <nav id="mobile-menu" style="display: block;">
+                                <ul>
+                                    <li>
+                                        <a href="@Url.Action("Index", "Home")"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Trang chủ</font></font></a>
+
+                                    </li>
+                                    <li class="mega-menu">
+                                        <a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@Html.ActionLink("SẢN PHẨM", "Index", "Product")</font></font></a>
+
+                                    </li>
+
+
+                                    <li>
+                                        <a href="@Url.Action("About","Home")"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Về chúng tôi</font></font></a>
+                                    </li>
+                                    <li>
+                                        <a href="@Url.Action("LienHe","Home")"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Liên hệ</font></font></a>
+                                    </li>
+                                    @if (Session["KH"] == null)
+                                    {
+                                        
+                                        <li>
+                                            <a href="@Url.Action("Login","Account")"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Đăng nhập</font></font></a>
+                                        </li>
+                                    }
+                                    else
+                                    {
+                                        var userName = "";
+                                        var user = (KhachHang)Session["KH"];
+                                        userName = user.Email; // Hoặc thuộc tính tương ứng
+
+                                        <li>
+                                            <a href="@Url.Action("Logout","Account")"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Đăng xuất</font></font></a>
+                                        </li>
+                                        <li>
+                                            <span style="font-size:large;">Xin chào, @userName</span>
+                                        </li>
+
+                                    }
+                                    @*@if (Session["KH"] != null || Session[ViewBag.UserSessionKey] != null)
+        {
+            // Kiểm tra xem người dùng đã đăng nhập thông qua phương thức nào
+            var userName = "";
+
+            if (Session["KH"] != null)
+            {
+                // Lấy tên người dùng từ session thông thường
+                var user = (KhachHang)Session["KH"];
+                userName = user.TenKH; // Hoặc thuộc tính tương ứng
+            }
+            else if (Session[ViewBag.UserSessionKey] != null)
+            {
+                // Lấy tên người dùng từ session Google
+                var userSession = Session[ViewBag.UserSessionKey];
+                userName = userSession.Email; // Hoặc thuộc tính tương ứng
+            }
+
+            <li>
+                <span>Xin chào, @userName</span>
+            </li>
+            <li>
+                <a href="@Url.Action("Logout", "Account")">
+                    <font style="vertical-align: inherit;">
+                        <font style="vertical-align: inherit;">Đăng xuất</font>
+                    </font>
+                </a>
+            </li>
+        }
+        else
+        {
+            // Người dùng chưa đăng nhập
+            <li>
+                <a href="@Url.Action("Login", "Account")">
+                    <font style="vertical-align: inherit;">
+                        <font style="vertical-align: inherit;">Đăng nhập</font>
+                    </font>
+                </a>
+            </li>
+        }*@
+
+
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-lg-6 col-md-6 col-5 col-sm-7 pl-0">
+                        <div class="header-right f-right">
+                            <ul>
+                                <li class="search-btn">
+                                    <a class="search-btn nav-search search-trigger" href="#"><i class="fas fa-search"></i></a>
+                                </li>
+                                <li class="login-btn"><a href="@Url.Action("LichSuDonHang", "Product")"><i class="far fa-user"></i></a></li>
+                                <li class="d-shop-cart">
+                                    <a href="@Url.Action("Index","ShoppingCart")"><i class="flaticon-shopping-cart"></i> <span class="cart-count" id="cart-count"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0</font></font></span></a>
+                                    @**@
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-12 d-xl-none">
+                        <div class="mobile-menu"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- header end -->
+
+    @RenderBody()
+
+    <!-- footer start -->
+    <footer>
+        <div class="footer-area box-90 pt-100 pb-60">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-xl-3 col-lg-5 col-md-6 ">
+                        <div class="footer-widget mb-40">
+                            <div class="footer-logo">
+                                <a href="@Url.Action("Index","Home")"><img src="~/assets/img/logo/footer-logo.png" alt=""></a>
+                            </div>
+                            <p>
+                                <font style="vertical-align: inherit;">
+                                    <font style="vertical-align: inherit;">
+                                        Bản thân cơn đau là rất quan trọng và việc giảm cân sẽ xảy ra sau đó, nhưng đồng thời chúng cũng xảy ra do sự đau đớn và khổ sở lớn lao. Để đi đến chi tiết nhỏ nhất, không ai nên thực hiện bất kỳ loại công việc nào trừ khi anh ta thu được lợi ích nào đó từ nó.
+                                    </font>
+                                </font>
+                            </p>
+                            <div class="footer-time d-flex mt-30">
+                                <div class="time-icon">
+                                    <img src="~/assets/img/icon/time.png" alt="">
+                                </div>
+                                <div class="time-text">
+                                    <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bạn có thắc mắc? Hãy gọi cho chúng tôi 24/7!</font></font></span>
+                                    <h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(0600) 874 548</font></font></h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-lg-2 col-md-3 d-lg-none d-xl-block">
+                        <div class="footer-widget pl-50 mb-40">
+                            <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Truyền thông xã hội</font></font></h3>
+                            <ul class="footer-link">
+                                <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Facebook</font></font></a></li>
+                                <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Twitter</font></font></a></li>
+                                <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Behance</font></font></a></li>
+                                <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dribbble</font></font></a></li>
+                                <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Linkedin</font></font></a></li>
+                                <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube</font></font></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-lg-2 col-md-3 d-lg-none d-xl-block">
+                        <div class="footer-widget pl-30 mb-40">
+                            <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vị trí</font></font></h3>
+                            <ul class="footer-link">
+                                <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Newyork</font></font></a></li>
+                                <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tokyo</font></font></a></li>
+                                <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Đắc-ca</font></font></a></li>
+                                <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chittagong</font></font></a></li>
+                                <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Trung Quốc</font></font></a></li>
+                                <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nhật Bản</font></font></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-lg-2 col-md-3">
+                        <div class="footer-widget mb-40">
+                            <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Về</font></font></h3>
+                            <ul class="footer-link">
+                                <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Điều khoản và điều kiện</font></font></a></li>
+                                <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chính sách bảo mật</font></font></a></li>
+                                <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Liên hệ chúng tôi</font></font></a></li>
+                                <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Câu hỏi thường gặp</font></font></a></li>
+                                <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bán sỉ</font></font></a></li>
+                                <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Phương hướng</font></font></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-5 col-md-6">
+                        <div class="footer-widget mb-40">
+                            <div class="footer-banner">
+                                <a href="shop.html"><img src="~/assets/img/banner/add.jpg" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright-area box-105">
+            <div class="container-fluid">
+                <div class="copyright-border pt-30 pb-30">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6 col-md-6">
+                            <div class="copyright text-center text-md-left">
+                                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bản quyền © 2019 </font></font><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SayyamCode</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . Bảo lưu mọi quyền</font></font></p>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6 col-md-6">
+                            <div class="footer-icon text-center text-md-right ">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                                <a href="#"><i class="fab fa-behance"></i></a>
+                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="#"><i class="fab fa-youtube"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- footer end -->
+    <!-- footer end -->
+    <!-- Fullscreen search -->
+    <div class="search-wrap">
+        <div class="search-inner">
+            <i class="fas fa-times search-close" id="search-close"></i>
+            <div class="search-cell">
+                <form method="get">
+                    <div class="search-field-holder">
+                        <input type="search" class="main-search-input" placeholder="Search Entire Store...">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div> <!-- end fullscreen search -->
+    <!-- JS here -->
+    @RenderSection("scripts", required: false)
+    <script src="https://sf-cdn.coze.com/obj/unpkg-va/flow-platform/chat-app-sdk/0.1.0-beta.5/libs/oversea/index.js"></script>
+    <script>
+        new CozeWebSDK.WebChatClient({
+            config: {
+                bot_id: '7396696434336415761',
+            },
+            componentProps: {
+                title: 'Coze',
+            },
+        });
+    </script>
+    <script src="~/assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="~/assets/js/popper.min.js"></script>
+    <script src="~/assets/js/bootstrap.min.js"></script>
+    <script src="~/assets/js/owl.carousel.min.js"></script>
+    <script src="~/assets/js/isotope.pkgd.min.js"></script>
+    <script src="~/assets/js/one-page-nav-min.js"></script>
+    <script src="~/assets/js/slick.min.js"></script>
+    <script src="~/assets/js/jquery.meanmenu.min.js"></script>
+    <script src="~/assets/js/ajax-form.js"></script>
+    <script src="~/assets/js/wow.min.js"></script>
+    <script src="~/assets/js/jquery.scrollUp.min.js"></script>
+    <script src="~/assets/js/jquery.final-countdown.min.js"></script>
+    <script src="~/assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="~/assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="~/assets/js/plugins.js"></script>
+    <script src="~/assets/js/main.js"></script>
+    <script src="~/assets/js/jsShopping.js"></script>
+</body>
+
+</html>

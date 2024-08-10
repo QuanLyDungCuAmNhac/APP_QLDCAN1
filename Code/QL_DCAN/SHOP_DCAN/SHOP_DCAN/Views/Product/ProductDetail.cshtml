@@ -1,0 +1,111 @@
+﻿@model SHOP_DCAN.SanPham
+@{
+    ViewBag.Title = "ProductDetail";
+    Layout = "~/Views/Shared/LayoutUser.cshtml";
+}
+
+<main>
+
+    <!-- breadcrumb-area-start -->
+    <section class="breadcrumb-area" data-background="~/img/bg/page-title.png">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="breadcrumb-text text-center">
+                        <h1>Our Shop</h1>
+                        <ul class="breadcrumb-menu">
+                            <li><a href="index.html">home</a></li>
+                            <li><span>shop details</span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- breadcrumb-area-end -->
+    <!-- shop-area start -->
+    <section class="shop-details-area pt-100 pb-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6 col-lg-4">
+                    <div class="product-details-img mb-10">
+                        <div class="tab-content" id="myTabContentpro">
+                            <div class="tab-pane fade show active" id="home" role="tabpanel">
+                                <div class="product-large-img">
+                                    <img src="https://res.cloudinary.com/deuokbfws/image/upload/v1722077825/@Model.HinhAnh" alt="">
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="profile" role="tabpanel">
+                                <div class="product-large-img">
+                                    <img src="~/img/product/pro2.jpg" alt="">
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="profile1" role="tabpanel">
+                                <div class="product-large-img">
+                                    <img src="~/img/product/pro3.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                   
+                </div>
+                <div class="col-xl-6 col-lg-8">
+                    <div class="product-details mb-30 pl-30">
+                        <div class="details-cat mb-20">
+                            <a href="#"></a>
+                            <a href="#">furniture</a>
+                        </div>
+                        <h2 class="pro-details-title mb-15">@Model.TenSP</h2>
+                        <div class="details-price mb-20">
+                            <span>@Common.FormatNumber(@Model.DonGia, 0) VND</span>
+                            <span class="old-price">$246.00</span>
+                        </div>
+                        <div class="product-variant">
+
+                            <div class="product-color variant-item">
+                                <div class="variant-name">
+                                    <span>Loại</span>
+                                </div>
+                                <span>@Model.LoaiSP.TenLoai</span>
+                            </div>
+
+                            <div class="product-desc variant-item">
+                                <p>
+                                    @Model.MoTa
+                                </p>
+                            </div>
+
+                            <div class="product-info-list variant-item">
+                                <div class="variant-name">
+                                    <span>Thương hiệu</span>
+                                </div>
+                                <span>@Model.ThuongHieu.TenTH</span>
+                            </div>
+
+                            <div class="product-action-details variant-item">
+                                <div class="product-details-action">
+                                    <form action="#">
+                                        <div class="plus-minus">
+                                            <div class="cart-plus-minus"><input type="number" id="quantity_value" value="1" /></div>
+                                        </div>
+
+                                        <div class="details-cart mt-40">
+                                            @* <button class="btn theme-btn">purchase now</button>*@
+                                            <div class="btn theme-btn" href="@Url.Action("Index","ShoppingCart")"><a href="@Url.Action("Index","ShoppingCart")" data-id="@Model.MaSP" class="btnAddToCart">Add to cart</a></div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- shop-area end -->
+    @Html.Action("Partial_RecommendedProducts", "Product")
+    <!-- product-area start -->
+ 
+
+
+</main>

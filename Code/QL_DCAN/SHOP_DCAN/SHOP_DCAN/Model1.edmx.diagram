@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c621db4a323e4bacaaf9686ac47c7064" Name="Diagram1">
+        <EntityTypeShape EntityType="QL_DCANModel.ChiTietHoaDon" Width="1.5" PointX="5.25" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DCANModel.DM_ManHinh" Width="1.5" PointX="5.75" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DCANModel.HoaDon" Width="1.5" PointX="3" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DCANModel.KhachHang" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DCANModel.KhoHang" Width="1.5" PointX="8.25" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DCANModel.LoaiSP" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DCANModel.NhaCungCap" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DCANModel.NhanVien" Width="1.5" PointX="0.75" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DCANModel.QL_NguoiDungNhomNguoiDung" Width="1.5" PointX="8" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DCANModel.QL_NhomNguoiDung" Width="1.5" PointX="5.75" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DCANModel.QL_PhanQuyen" Width="1.5" PointX="8" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DCANModel.SanPham" Width="1.5" PointX="3" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DCANModel.sysdiagram" Width="1.5" PointX="10.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DCANModel.ThuongHieu" Width="1.5" PointX="0.75" PointY="0.875" IsExpanded="true" />
+        <AssociationConnector Association="QL_DCANModel.FK_ChiTietHoaDon_HoaDon1" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DCANModel.FK_ChiTietHoaDon_SanPham" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DCANModel.FK_QL_PhanQuyen_DM_ManHinh" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DCANModel.FK_HoaDon_KhachHang" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DCANModel.FK_HoaDon_NhanVien" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DCANModel.FK_KhoHang_NhaCungCap" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DCANModel.FK_KhoHang_SanPham" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DCANModel.FK_SanPham_LoaiSP" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DCANModel.FK_QL_NguoiDungNhomNguoiDung_NhanVien" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DCANModel.FK_QL_NguoiDungNhomNguoiDung_QL_NhomNguoiDung" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DCANModel.FK_QL_PhanQuyen_QL_NhomNguoiDung" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DCANModel.FK_SanPham_ThuongHieu" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
